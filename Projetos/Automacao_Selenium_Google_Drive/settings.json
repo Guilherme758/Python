@@ -1,0 +1,13 @@
+{
+    "Settings": 
+    {
+        "GDriveBaseURL": "https://drive.google.com/drive/my-drive", 
+        "GDriveUser": "seleniumdriveautomation@gmail.com",
+        "GDrivePassword": "040603.a",
+        "DownloadFolder": "E:\\Python\\Projetos\\Automacao_Selenium_Google_Drive\\files\\"
+    },
+    "Reports":
+    {
+        "URLExportsFolder" : "https://drive.google.com/drive/u/1/folders/1mGGu8jmRAXdnp-gcGQ8o0LFeqffgs0Z-"
+    }
+}
